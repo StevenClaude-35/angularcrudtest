@@ -145,6 +145,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "restorent"
+    }
+  },
+  "defaultProject": "restorent",
+  "cli": {
+    "analytics": "b27693f4-fdf4-46f8-bf85-e3375ea996ae"
+  }
 }

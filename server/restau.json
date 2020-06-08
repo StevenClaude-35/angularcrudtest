@@ -1,0 +1,46 @@
+{
+  "restos": [
+    {
+      "id": 1,
+      "name": "capitol hotel",
+      "Address": "rue de Paris",
+      "mobile": "123456",
+      "email": "capitol@yahoo.fr"
+    },
+    {
+      "id": 2,
+      "name": "baltazar hotel",
+      "Address": "rue de nemours",
+      "mobile": "654321",
+      "email": "baltazar@gmail.com"
+    },
+    {
+      "name": "hibiscus hotel",
+      "Address": "",
+      "mobile": "245678",
+      "email": "hibiscus@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "mercure hotel",
+      "Address": "",
+      "mobile": "2456784",
+      "email": "mercure@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "sebastian hotel",
+      "Address": "rue des allees",
+      "mobile": "112233",
+      "email": "sebastian@yahoo.fr",
+      "id": 5
+    },
+    {
+      "name": "premiere class",
+      "Address": "rue des plantes",
+      "mobile": "123456",
+      "email": "premiere@gmail.com",
+      "id": 6
+    }
+  ]
+}
